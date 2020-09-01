@@ -18,6 +18,8 @@ am adaugat si cateva informatii la partea despre deployment
 scopul meu e sa invatam ceva din acest fisier...sper ca totul sa mearga cum trebui
 ## How to contribute
 
+Please fork this repository and then issues a PUll Request for review
+
 am mai modificat cate ceva pe aici
 
 ### Copyright
