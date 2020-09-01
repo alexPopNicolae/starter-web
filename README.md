@@ -15,4 +15,7 @@ am adaugat si cateva informatii la partea despre deployment
 
 ## Purpose 
 
+scopul meu e sa invatam ceva din acest fisier...sper ca totul sa mearga cum trebui
 ## How to contribute
+
+am mai modificat cate ceva pe aici
