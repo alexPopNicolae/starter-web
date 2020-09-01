@@ -19,3 +19,7 @@ scopul meu e sa invatam ceva din acest fisier...sper ca totul sa mearga cum treb
 ## How to contribute
 
 am mai modificat cate ceva pe aici
+
+### Copyright
+
+am adauga copyright
