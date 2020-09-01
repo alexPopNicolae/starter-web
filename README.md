@@ -5,6 +5,8 @@ and play around with git and learn how to use it in a more advanced way
 
 Adding a line for rebasing example.
 
+More changes from myfeatyre branch.
+
 ## Introduction
 
 Aici vom scrie cateva cuvinte de spre introducere
