@@ -11,6 +11,8 @@ lucruri. HA H A  HAHAHAHAH
 
 ## Deploymnet
 
+am adaugat si cateva informatii la partea despre deployment
+
 ## Purpose 
 
 ## How to contribute
