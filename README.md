@@ -14,6 +14,8 @@ And another line also for rebasing example.
 Mai multe schimbari de pe my feature branch!
 Sper ca totul sa emarga cum trebuie!!
 
+Updating an emergency line after our stash!!
+
 ## Introduction
 
 Aici vom scrie cateva cuvinte de spre introducere
