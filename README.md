@@ -7,6 +7,10 @@ Adding a line for rebasing example.
 
 More changes from myfeatyre branch.
 
+Adding another line for rebasing example.
+
+And another line also for rebasing example.
+
 ## Introduction
 
 Aici vom scrie cateva cuvinte de spre introducere
