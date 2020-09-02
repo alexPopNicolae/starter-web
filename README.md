@@ -11,6 +11,9 @@ Adding another line for rebasing example.
 
 And another line also for rebasing example.
 
+Mai multe schimbari de pe my feature branch!
+Sper ca totul sa emarga cum trebuie!!
+
 ## Introduction
 
 Aici vom scrie cateva cuvinte de spre introducere
