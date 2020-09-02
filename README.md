@@ -35,4 +35,4 @@ am mai modificat cate ceva pe aici
 
 ### Copyright
 
-am adauga copyright
+am adauga copyright. all right reserved
